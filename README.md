@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👨‍💻 Software Engineering Profile
 
-<!--
-**IZZAT2001/Izzat2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Key Roles and Responsibilities
 
-Here are some ideas to get you started:
+- **Project Involvement**  
+  Actively contributed to the design, development, and deployment of various software engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Technical Lead for University Project**  
+  Led the development of a comprehensive university project, guiding a team of developers to deliver robust solutions.
+
+- **Legacy Codebase Maintenance**  
+  Expert in maintaining and modernizing legacy codebases, ensuring system stability and performance improvements.
+
